@@ -96,3 +96,44 @@ Versão corporativa do Gemini com:
 ### Vertex AI Agent Engine
 
 Plataforma para criar, publicar e executar agentes de IA.
+
+
+## 📂 Estrutura do Repositório
+
+```text
+genai-learning-journey/
+│
+├── README.md
+├── labs/
+├── gemini/
+├── vertex-ai/
+├── agentes/
+├── adk/
+├── mcp/
+└── arquiteturas/
+```
+
+---
+
+## 🎓 Próximos Estudos
+
+- MCP
+- RAG
+- Function Calling
+- Agent-to-Agent (A2A)
+- AI Product Management
+- AI Governance
+- Synthetic Personas
+- Multi-Agent Systems
+
+---
+
+## 👨‍💻 Autor
+
+Helder Lopes
+
+Especialista em Agilidade de Negócios
+
+Estudos focados em:
+- IA Generativa
+- Agentes Corporativos
