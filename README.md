@@ -1,3 +1,7 @@
+# 🚀 Helder AI Notes
+
+> Jornada de aprendizado em IA Generativa e Agentes Corporativos.
+
 # genai-learning-journey
 Repositório pessoal para registrar aprendizados, experimentos e referências sobre Inteligência Artificial, Agentes, Gemini e Vertex AI.
 
