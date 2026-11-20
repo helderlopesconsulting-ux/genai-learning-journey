@@ -66,8 +66,6 @@ Ferramentas / APIs
 Resposta
 ```
 
----
-
 ### OAuth
 
 Mecanismo padrão de autorização.
@@ -85,8 +83,6 @@ Token OAuth
    ↓
 Aplicação
 ```
-
----
 
 ### Gemini Enterprise
 
@@ -120,8 +116,6 @@ genai-learning-journey/
 └── arquiteturas/
 ```
 
----
-
 ## 🎓 Próximos Estudos
 
 - MCP
@@ -132,6 +126,100 @@ genai-learning-journey/
 - AI Governance
 - Synthetic Personas
 - Multi-Agent Systems
+---
+
+# Conceitos Importantes
+
+## Agent Runtime
+
+Ambiente onde um agente executa suas funções.
+
+Responsabilidades:
+
+- Receber solicitações
+- Processar contexto
+- Orquestrar ferramentas
+- Consultar APIs
+- Produzir respostas
+
+Fluxo:
+
+Usuário → Gemini → Agent Runtime → Sistemas → Resposta
+
+---
+
+## OAuth
+
+Padrão de autorização que permite acesso seguro sem compartilhar senhas.
+
+Fluxo:
+
+Usuário → Google Identity → Token → Aplicação
+
+Benefícios:
+
+- Segurança
+- Controle de acesso
+- Auditoria
+- Menor exposição de credenciais
+
+---
+
+## Gemini Enterprise
+
+Versão corporativa do Gemini.
+
+Principais capacidades:
+
+- Controle empresarial
+- Governança
+- Integração com dados internos
+- Integração com Agentes
+- Segurança corporativa
+
+---
+
+## Vertex AI Agent Engine
+
+Plataforma para criação e execução de agentes corporativos.
+
+Capacidades:
+
+- Deploy de agentes
+- Escalabilidade
+- Observabilidade
+- Integração com ferramentas
+- Gestão do ciclo de vida
+
+---
+
+## Integração de Agentes Corporativos
+
+Permite conectar IA aos sistemas da organização.
+
+Exemplos:
+
+- Jira
+- Azure DevOps
+- SAP
+- Salesforce
+- BigQuery
+- Databricks
+- APIs internas
+
+Arquitetura típica:
+
+Gemini Enterprise
+↓
+Agent Engine
+↓
+Agent Runtime
+↓
+Tool Calling
+↓
+Sistemas Corporativos
+
+---
 
 ---
 
