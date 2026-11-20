@@ -39,7 +39,10 @@ Construir uma base de conhecimento própria com:
 
 | Data | Lab | Status |
 |--------|----------|---------|
-| 2026-11-20 | Add Agents to Gemini Enterprise | ✅ |
+| 2026-11 | Add Agents to Gemini Enterprise | ✅ |
+| 2026-11 | Gemini Enterprise | ✅ |
+| 2026-11 | OAuth Configuration | ✅ |
+| 2026-11 | Agent Runtime Deployment | ✅ |
 
 ---
 
